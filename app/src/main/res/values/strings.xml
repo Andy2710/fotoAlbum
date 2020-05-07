@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fotoAlbum</string>
+    <string name="Фотоальбом">Фотоальбом</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="http_myfile_org_nextlevel"><![CDATA[http://myfile.org/<nextLevel>]]></string>
+    <string name="http_myfile_org">http://myfile.org/</string>
+    <string name="todo">TODO</string>
+</resources>
